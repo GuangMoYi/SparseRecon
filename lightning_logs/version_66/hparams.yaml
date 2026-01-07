@@ -1,0 +1,33 @@
+accelerator: gpu
+accum_grads: 1
+batch_frames: 64
+batch_pixels: 1024
+consecutive_train: false
+data_name: sea
+dec_num_cross_attention_heads: 1
+dec_num_latent_channels: 64
+dec_preproc_ch: null
+dropout: 0.1
+enc_num_latent_channels: 64
+enc_num_self_attention_heads: 16
+enc_preproc_ch: 256
+gpu_device:
+- 0
+im_ch: 2
+image_size:
+- 52
+- 60
+latent_size: 1
+load_model_num: null
+lr: 0.0001
+num_batches: 48
+num_cross_attention_heads: 2
+num_latents: 4
+num_layers: 2
+num_self_attention_layers_per_block: 2
+num_sensors: 256
+seed: null
+space_bands: 2
+test: false
+total_frames: 509
+training_frames: 509

@@ -19,7 +19,7 @@ ENV/
 *.ipynb_checkpoints
 
 # PyTorch Lightning
-lightning_logs/
+# lightning_logs/  # Commented out to allow uploading logs
 
 # IDE
 .vscode/
