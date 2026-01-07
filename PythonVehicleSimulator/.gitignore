@@ -13,7 +13,9 @@ dist/
 downloads/ 
 eggs/ 
 .eggs/ 
-lib/ 
+# lib/ and lib64/ are for build directories, not source code
+# Exclude build lib/ but allow src/python_vehicle_simulator/lib/
+!/src/python_vehicle_simulator/lib/
 lib64/ 
 parts/ 
 sdist/ 
