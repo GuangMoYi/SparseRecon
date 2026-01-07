@@ -1,0 +1,15 @@
+[
+  "tests/test_simulate.py::test_3D_plot",
+  "tests/test_simulate.py::test_DSRV",
+  "tests/test_simulate.py::test_ROVzefakkel",
+  "tests/test_simulate.py::test_frigate",
+  "tests/test_simulate.py::test_otter",
+  "tests/test_simulate.py::test_plot_controls",
+  "tests/test_simulate.py::test_plot_vehicle_states",
+  "tests/test_simulate.py::test_remus100",
+  "tests/test_simulate.py::test_semisub",
+  "tests/test_simulate.py::test_shipClarke83",
+  "tests/test_simulate.py::test_simulate",
+  "tests/test_simulate.py::test_supply",
+  "tests/test_simulate.py::test_tanker"
+]

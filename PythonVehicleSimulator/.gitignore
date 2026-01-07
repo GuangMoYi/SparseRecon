@@ -1,4 +1,4 @@
-__pycache__
+# __pycache__  # Commented out to allow uploading
 *.py[cod]
 *$py.class
 
@@ -21,7 +21,7 @@ parts/
 sdist/ 
 var/ 
 wheels/ 
-*.egg-info/ 
+# *.egg-info/  # Commented out to allow uploading 
 .installed.cfg 
 *.egg 
 *.manifest 
@@ -38,7 +38,7 @@ htmlcov/
 .coverage 
 .coverage.* 
 .cache 
-.pytest_cache/ 
+# .pytest_cache/  # Commented out to allow uploading 
 nosetests.xml 
 coverage.xml 
 *.cover 

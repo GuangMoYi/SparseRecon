@@ -1,0 +1,15 @@
+[
+  "PythonVehicleSimulator/tests/test_simulate.py::test_3D_plot",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_DSRV",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_ROVzefakkel",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_frigate",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_otter",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_plot_controls",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_plot_vehicle_states",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_remus100",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_semisub",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_shipClarke83",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_simulate",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_supply",
+  "PythonVehicleSimulator/tests/test_simulate.py::test_tanker"
+]

@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: python_vehicle_simulator
+Version: 1.0.1
+Summary: The Python Vehicle Simulator is a supplement to the Matlab MSS (Marine Systems Simulator) toolbox.
+Home-page: https://github.com/cybergalactic/PythonVehicleSimulator
+Author: T. I. Fossen
+Author-email: thor.fossen@ntnu.no
+Project-URL: Bug Tracker, https://github.com/cybergalactic/PythonVehicleSimulator/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Dynamic: license-file

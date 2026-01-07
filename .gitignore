@@ -1,18 +1,18 @@
 # Python
-__pycache__/
+# __pycache__/  # Commented out to allow uploading
 *.py[cod]
 *$py.class
 *.so
 .Python
-*.egg-info/
+# *.egg-info/  # Commented out to allow uploading
 dist/
 build/
 
 # Virtual Environment
-venv/
-env/
-ENV/
-.venv
+# venv/  # Commented out to allow uploading
+# env/
+# ENV/
+# .venv  # Commented out to allow uploading
 
 # Jupyter Notebook
 .ipynb_checkpoints/
